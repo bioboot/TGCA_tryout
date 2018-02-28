@@ -70,6 +70,7 @@ Now lets check on GDC status:
 GenomicDataCommons::status()
 ```
 
+What can we access? Let's have a look:
 ```{r}
 #x <- files()
 
